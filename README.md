@@ -2,9 +2,6 @@
 👋 Hello! I'm Dejaun Gayle, a rising senior at Kean University.<br><br>🎓 I'm pursuing a Bachelor's degree in Computer Science with a minor in Computer Cyber Security.<br><br>💻 Currently, I'm working as a System Administrator for Kean IT, where I'm gaining hands-on experience in managing and maintaining university systems.<br><br>🔒 My passion lies in the intersection of computer science and cybersecurity, and I'm always eager to learn and apply new technologies in these fields.<br><br>🚀 I'm constantly working on personal projects and expanding my skill set. Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or have any questions!<br/>
 
 [![](https://visitcount.itsvg.in/api?id=dejaung&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-dejaun) 
 
 # 💻 Tech Stack:
